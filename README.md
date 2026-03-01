@@ -6,7 +6,7 @@
   🌈 AI Literacy Planner for Healthy Digital Growth
 </p>
 <p align="center">
-  <img src="YOUR_GRADIENT_IMAGE_LINK_HERE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=AI%20Exposure%20Balance&fontSize=38&fontAlignY=40&color=0:60A5FA,50:A78BFA,100:FDBA74&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
