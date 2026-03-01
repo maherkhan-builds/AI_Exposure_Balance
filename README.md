@@ -1,7 +1,9 @@
-<h1 align="center">🤖👨‍👩‍👧 AI Exposure Balance</h1>
+<p align="center">
+  🤖👨‍👩‍👧 <strong>AI Exposure Balance</strong>
+</p>
 
 <p align="center">
-  🌈 <strong>AI Literacy Planner for Healthy Digital Growth</strong>
+  🌈 AI Literacy Planner for Healthy Digital Growth
 </p>
 
 <p align="center">
