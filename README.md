@@ -5,6 +5,9 @@
 <p align="center">
   🌈 AI Literacy Planner for Healthy Digital Growth
 </p>
+<p align="center">
+  <img src="YOUR_GRADIENT_IMAGE_LINK_HERE" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Industry-Parenting%20%2F%20AI%20Literacy-60A5FA" />
