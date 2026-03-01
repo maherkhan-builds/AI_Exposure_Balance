@@ -1,8 +1,7 @@
-# 🤖👨‍👩‍👧 AI Exposure Balance  
-### 🌈 AI Literacy Planner for Healthy Digital Growth
+<h1 align="center">🤖👨‍👩‍👧 AI Exposure Balance</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=AI%20Exposure%20Balance&fontSize=38&fontAlignY=40&color=0:60A5FA,50:A78BFA,100:FDBA74&animation=fadeIn&fontColor=ffffff" />
+  🌈 <strong>AI Literacy Planner for Healthy Digital Growth</strong>
 </p>
 
 <p align="center">
